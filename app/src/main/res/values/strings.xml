@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="nota_text">Nota</string>
+    <string name="guardar_btn">Guardar</string>
+</resources>
